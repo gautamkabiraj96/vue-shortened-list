@@ -1,2 +1,2 @@
 # vue-shortened-list
-Created with CodeSandbox
+Show a shortened list in Vue.js
